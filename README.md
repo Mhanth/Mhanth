@@ -18,8 +18,8 @@
 
 Hey, I'm **Sarvesh** — a BCA student at Maharishi University of Information Technology, Lucknow, and founder of **[Mhanth Innovation Studio](https://mhanth.club)**, an AI-first agency split into two arms:
 
-- 🏢 **Mhanth Agency** — client-facing product & AI services
-- 🧪 **Mhanth Labs** — in-house products built on our own time
+- 🏢 **Mhanth AI Inoovation studio** — client-facing product & AI services
+
 
 I lead **Team TrashToTreasure**, and most of what I build is hackathon-born, utility-first, and meant to actually get used — not just demoed once and forgotten. Long game: build something that ends up in enough people's daily routine that it stops feeling optional.
 
@@ -118,8 +118,8 @@ A collection of focused, single-purpose tools — built fast, built to be used.
 <div align="center">
 
 <a href="https://mhanth.club"><img src="https://img.shields.io/badge/Mhanth-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mrmhanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mr.mhanth2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
