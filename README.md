@@ -3,12 +3,9 @@
 
 <!-- Dynamic Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9b59b6,100:2e1065&height=220&section=header&text=Sarvesh%20Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-first%20products%20%7C%20Founder%20%40%20Mhanth%20Innovation%20Studio&descAlignY=58&descSize=17&descColor=d8b4fe" />
-<br/>
-<br/>
-
 <!-- Typing SVG -->
 <a href="https://github.com/Mhanth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=🚀+Founder+%40+Mhanth+Innovation+Studio;🤖+Building+AI-first+utility+products;♻️+Turned+Waste2Worth+%7C+Hackathon+Builder;🧠+Full+Stack+%7C+AI+%7C+Brand+%7C+Agency;💡+From+Gorakhpur+→+Lucknow+→+Everywhere" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%F0%9F%9A%80+Founder+%40+Mhanth+Innovation+Studio;%F0%9F%A4%96+Building+AI-first+utility+products;%E2%99%BB%EF%B8%8F+Turned+Waste2Worth+%7C+Hackathon+Builder;%F0%9F%A7%A0+Full+Stack+%7C+AI+%7C+Brand+%7C+Agency;%F0%9F%92%A1+From+Gorakhpur+%E2%86%92+Lucknow+%E2%86%92+Everywhere" alt="Typing SVG" />
 </a>
 
 <br/>
