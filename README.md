@@ -1,7 +1,10 @@
 <div align="center">
+<div align="center">
 
-<!-- Dynamic Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9b59b6,100:2e1065&height=220&section=header&text=Sarvesh%20Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-first%20products%20%7C%20Founder%20%40%20Mhanth%20Innovation%20Studio&descAlignY=58&descSize=17&descColor=d8b4fe" />
+<!-- Profile Photo Banner -->
+<img src="https://raw.githubusercontent.com/Mhanth/Mhanth/main/assets/profile.png" width="180" style="border-radius:50%;border:4px solid #7c3aed;" />
+<!-- Dynamic Animated Banner 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9b59b6,100:2e1065&height=220&section=header&text=Sarvesh%20Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-first%20products%20%7C%20Founder%20%40%20Mhanth%20Innovation%20Studio&descAlignY=58&descSize=17&descColor=d8b4fe" />-->
 
 <!-- Typing SVG -->
 <a href="https://github.com/Mhanth">
