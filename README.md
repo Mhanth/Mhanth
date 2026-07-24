@@ -1,143 +1,174 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header" width="100%"/>
+<div align="center">
 
-<table>
-<tr>
-<td width="22%" align="center">
+<!-- Dynamic Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9b59b6,100:2e1065&height=220&section=header&text=Sarvesh%20Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-first%20products%20%7C%20Founder%20%40%20Mhanth%20Innovation%20Studio&descAlignY=58&descSize=17&descColor=d8b4fe" />
 
-<img src="https://raw.githubusercontent.com/Mhanth/Mhanth/main/assets/profile.png" width="170" style="border-radius:50%;border:3px solid #A78BFA;"/>
-
-</td>
-<td width="78%" valign="middle">
-
-<h1 align="left">Sarvesh Tripathi</h1>
-
+<!-- Typing SVG -->
 <a href="https://github.com/Mhanth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=false&vCenter=true&width=600&lines=Founder+%40+Mhanth+Innovation+Studio;Building+utility-first+products;Lead+%40+Team+TrashToTreasure;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Founder+%40+Mhanth+Innovation+Studio;🤖+Building+AI-first+utility+products;♻️+Turned+Waste2Worth+%7C+Hackathon+Builder;🧠+Full+Stack+%7C+AI+%7C+Brand+%7C+Agency;💡+From+Gorakhpur+→+Lucknow+→+Everywhere" alt="Typing SVG" />
 </a>
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<!-- Profile views + followers badges -->
+<a href="https://github.com/Mhanth">
+  <img src="https://komarev.com/ghpvc/?username=Mhanth&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Mhanth?tab=followers">
+  <img src="https://img.shields.io/github/followers/Mhanth?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a0533" alt="Followers"/>
+</a>
+<a href="https://mhanth.club">
+  <img src="https://img.shields.io/badge/Portfolio-mhanth.club-7c3aed?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0533" alt="Website"/>
+</a>
 
-### 👋 Know About Me
-
-Hey, I'm **Sarvesh** — a BCA student at Maharishi University of Information Technology, Lucknow, and founder of **[Mhanth Innovation Studio](https://mhanth.club)**, an AI-first agency split into two arms:
-
-- 🏢 **Mhanth Agency** — client-facing product & AI services
-- 🧪 **Mhanth Labs** — in-house products built on our own time
-
-I lead **Team TrashToTreasure**, and most of what I build is hackathon-born, utility-first, and meant to actually get used — not just demoed once and forgotten. Long game: build something that ends up in enough people's daily routine that it stops feeling optional.
-
-</td>
-<td width="35%" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🚀 Flagship Builds
-
-<table>
-<tr>
-<td width="50%">
-
-**[🌱 Waste2Worth (W2W)](https://wastetoworth-eight.vercel.app)**
-AI-powered waste action platform — from idea to national-stage pitch.
-`AI` `Sustainability` `Full Stack`
-
-</td>
-<td width="50%">
-
-**[🏛️ Mhanth](https://mhanth.club)**
-The studio itself — agency + labs, premium brand relaunch in progress.
-`Brand` `AI Agency` `Product`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🛠️ ToolBazaar**
-A marketplace-style hub of utility tools built for real workflows.
-`Utility` `Full Stack`
-
-</td>
-<td width="50%">
-
-**🤖 AIBizKit**
-AI toolkit aimed at giving small businesses practical, no-fluff AI wins.
-`AI` `SaaS`
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**⚙️ ToolSpace**
-A collection of focused, single-purpose tools — built fast, built to be used.
-`Utility` `Rapid Build`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🧠 Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,mysql,mongodb,supabase,python,flask,git,figma&theme=dark" />
 </div>
 
-<br/>
+---
 
-### 📊 GitHub Stats
+<!-- About Section -->
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+
+### 👋 Hey, I'm **Sarvesh Tripathi** aka `Mhanth`
+
+> *"Build something that ends up in enough people's daily routine that it stops feeling optional."*
+
+- 🎓 BCA @ **Maharishi University of Information Technology**, Lucknow
+- 🏢 Founder of **[Mhanth Innovation Studio](https://mhanth.club)** — an AI-first agency split into:
+  - 🏛️ **Mhanth Agency** → client-facing product & AI services
+  - 🔬 **Mhanth Labs** → in-house products built on our own time
+- ♻️ Creator of **Team TrashToTreasure** — hackathon-born, utility-first
+- 🧠 Lead Generator | Website Designer | Passionate Tech Enthusiast
+- 📍 Based in **Lucknow** | From **Gorakhpur**
+- 🌐 Web: [mhanth.club](https://mhanth.club)
+
+<br clear="right"/>
+
+---
+
+<!-- Flagship Builds -->
+## 🚀 Flagship Builds
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mhanth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhanth&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+
+| Project | Description | Stack |
+|---|---|---|
+| ♻️ **[Waste2Worth (W2W)](https://github.com/Mhanth/wastetoworth)** | AI-powered waste action platform — from idea to national-stage pitch | `AI` `TypeScript` `Sustainability` |
+| 🤟 **[SignAI](https://github.com/Mhanth/SignAI)** | End-to-end AI system translating Indian Sign Language (ISL) into text via computer vision + ML | `Python` `Computer Vision` `ML` |
+| ♻️ **[Upcycle-it](https://github.com/Mhanth/upcycle-it)** | Turn waste into value — smart upcycling powered by AI | `TypeScript` `AI` |
+| 🛡️ **[FraudShield](https://github.com/Mhanth/fraudshield)** | Real-time fraud detection system | `JavaScript` `AI` |
+| 🏛️ **[Mhanth Studio](https://mhanth.club)** | The studio itself — agency + labs + premium brand | `Brand` `AI` `Agency` |
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=a855f7)
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=a855f7)
+![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=a855f7)
+![CSS3](https://img.shields.io/badge/CSS3-1a0533?style=for-the-badge&logo=css3&logoColor=a855f7)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-1a0533?style=for-the-badge&logo=react&logoColor=a855f7)
+![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=for-the-badge&logo=next.js&logoColor=a855f7)
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=a855f7)
+![Express](https://img.shields.io/badge/Express-1a0533?style=for-the-badge&logo=express&logoColor=a855f7)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0533?style=for-the-badge&logo=tailwindcss&logoColor=a855f7)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-1a0533?style=for-the-badge&logo=openai&logoColor=a855f7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0533?style=for-the-badge&logo=tensorflow&logoColor=a855f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a0533?style=for-the-badge&logo=opencv&logoColor=a855f7)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=a855f7)
+![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=a855f7)
+![Vercel](https://img.shields.io/badge/Vercel-1a0533?style=for-the-badge&logo=vercel&logoColor=a855f7)
+![Figma](https://img.shields.io/badge/Figma-1a0533?style=for-the-badge&logo=figma&logoColor=a855f7)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0533?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mhanth&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&icon_color=a855f7&title_color=a855f7&text_color=d8b4fe&ring_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhanth&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=a855f7&text_color=d8b4fe&hide_border=false&langs_count=8" height="180px"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhanth&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Mhanth&theme=tokyonight&background=0d0d1a&border=7c3aed&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7&sideLabels=d8b4fe&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" width="60%"/>
+
 </div>
-
-<br/>
-
-### 📈 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Mhanth/Mhanth/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mhanth&theme=darkhub&no-bg=true&no-frame=false&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-<sub>⤷ Powered by the included <code>.github/workflows/snake.yml</code> — runs automatically once pushed to your profile repo.</sub>
+---
+
+<!-- Activity Graph -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Mhanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mhanth&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=f59e0b&area=true&area_color=2e1065&hide_border=false&border_color=7c3aed&custom_title=Sarvesh's%20Contribution%20Graph)](https://github.com/Mhanth)
+
+</div>
+
+---
+
+<!-- Snake Game -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Mhanth/Mhanth/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- Connect -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_mhanth.club-7c3aed?style=for-the-badge&logoColor=white)](https://mhanth.club)
+[![Twitter](https://img.shields.io/badge/@Mr__Mhanth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mr_Mhanth)
+[![LinkedIn](https://img.shields.io/badge/in%2Fmrmhanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrmhanth)
+[![Instagram](https://img.shields.io/badge/@mhanth01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhanth01)
+[![GitHub](https://img.shields.io/badge/Mhanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mhanth)
+
+</div>
+
+---
+
+<!-- Footer Quote -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+long+game%3A+build+something+that+ends+up+in+enough+people%27s+daily+routine+that+it+stops+feeling+optional.&author=Sarvesh+Tripathi" alt="Quote" width="80%"/>
 
 <br/><br/>
 
-### 🔗 Connect
-
-<div align="center">
-
-<a href="https://mhanth.club"><img src="https://img.shields.io/badge/Mhanth-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:9b59b6,100:6e40c9&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-<i>Shipping something, always.</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
